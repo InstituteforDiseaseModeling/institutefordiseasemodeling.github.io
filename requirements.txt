@@ -1,0 +1,5 @@
+sphinxext.remoteliteralinclude
+sphinx
+pydata-sphinx-theme
+plantweb
+pygithub
