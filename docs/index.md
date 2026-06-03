@@ -51,13 +51,13 @@ Outside of the three modeling frameworks above, we also provide the following so
 
 <div class="grid cards" markdown>
 
-<!-- -   :material-language-python:{ .lg .middle } __historymatching__
+-   :material-language-python:{ .lg .middle } __historymatching__
 
     ---
 
     historymatching is a Python implementation of the Bayesian history matching algorithm for model calibration and uncertainty quantification. History matching iteratively constrains a model's parameter space by comparing simulation outputs against observed data through statistical emulators. It is particularly useful for calibrating expensive computational models where exhaustive parameter sweeps are impractical.
 
-    [:octicons-arrow-right-24: historymatching](https://docs.idmod.org/historymatching) -->
+    [:octicons-arrow-right-24: historymatching](https://docs.idmod.org/historymatching)
 
 -   :material-language-python:{ .lg .middle } __idmtools__
 
