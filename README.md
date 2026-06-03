@@ -1,7 +1,7 @@
-# institutefordiseasemodeling.github.io
+# IDM documentation
 
-This repo exists to create a gh-pages site at institudefordiseasemodeling.github.io
-so we can track analytics for other gh-pages sites, such as
-institutefordiseasemodeling.github.io/PACE-HRH/. 
+Documentation landing page for all software tools shared by the Institute for Disease Modeling.
 
-All other documentation is hosted on Read the Docs at docs.idmod.org.
+## Available packages
+
+Documentation is built using mkdocs and GitHub-Actions and hosted via GitHub-Pages at the default URL https://InstituteforDiseaseModeling.github.io. Users can access this landing page via the custom domain docs.idmod.org and will be redirected to the URL above. In the InstituteforDiseaseModeling org, repositories with documentation hosted via GitHub-Pages will be available at docs.idmod.org/<repo-name>.
