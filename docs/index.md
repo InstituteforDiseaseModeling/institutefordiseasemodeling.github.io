@@ -79,9 +79,9 @@ Outside of the three modeling frameworks above, we also provide the following so
 
     ---
 
-    The WES R package provides reproducible functions for collating and analyzing data from wastewater and environmental sampling studies. Wastewater and environmental sampling (WES) of infectious diseases involves collecting samples from various sources (such as sewage, water, air, soil, or surfaces) to monitor the presence of pathogens in the environment. The package includes tools that assist with establishing standardized WES data formats to simplify
+    The WES R package provides reproducible functions for collating and analyzing data from wastewater and environmental sampling studies. Wastewater and environmental sampling (WES) of infectious diseases involves collecting samples from various sources (such as sewage, water, air, soil, or surfaces) to monitor the presence of pathogens in the environment. The package includes tools that assist with establishing standardized WES data formats to simplify data ingestion.
 
-    [:octicons-arrow-right-24: WES](https://docs.idmod.org/WES)
+    [:octicons-arrow-right-24: WES](https://www.r-wes.com/)
 
 -   :material-language-python:{ .lg .middle } __RAINIER__
 
