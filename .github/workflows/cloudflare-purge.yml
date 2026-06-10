@@ -1,0 +1,33 @@
+name: Purge Cloudflare cache
+
+# Fires after GitHub Pages reports a deployment result. We gate on a
+# successful deployment to the github-pages environment so the purge only
+# runs once the new docs are actually live, avoiding the race where
+# Cloudflare re-caches stale content before Pages finishes publishing.
+on:
+  deployment_status
+
+permissions:
+  contents: read
+
+jobs:
+  purge:
+    if: >-
+      github.event.deployment_status.state == 'success' &&
+      github.event.deployment.environment == 'github-pages'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge Cloudflare cache for docs.idmod.org
+        env:
+          CF_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+          CF_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          response=$(curl --silent --show-error -X POST \
+            "https://api.cloudflare.com/client/v4/zones/${CF_ZONE_ID}/purge_cache" \
+            -H "Authorization: Bearer ${CF_API_TOKEN}" \
+            -H "Content-Type: application/json" \
+            --data '{"hosts":["docs.idmod.org"]}')
+          echo "$response"
+          # Cloudflare returns HTTP 200 with {"success": false, ...} on
+          # logical errors, so check the body rather than just the status code.
+          echo "$response" | jq -e '.success == true' > /dev/null
