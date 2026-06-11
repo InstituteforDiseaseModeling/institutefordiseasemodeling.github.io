@@ -13,7 +13,7 @@ IDM provides three broad frameworks for modeling disease transmission, each of w
 
 -   :material-language-python:{ .lg .middle } __Starsim__{ #starsim } 
 
-    --- 
+    ---
 
     The Starsim framework is used for examining the spread of infectious disease in situations when the details of how an individual's immune system, and heterogeneity across immune systems, changes the answer to a particular research question. Use Starsim models when within-host biology, co-infection, or fine-grained intervention effects matter.
 
