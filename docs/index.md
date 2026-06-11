@@ -113,7 +113,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
     [:octicons-arrow-right-24: HIV Leaky Vaccine](http://leakyvaccine.bmgf.io)
 
--   :material-view-dashboard:{ .lg .middle } __Subnational Family Planning Estimation Tool__{ #sfpet } 
+-   :material-view-dashboard:{ .lg .middle } __Subnational Family Planning Estimation Tool__{ #sfpet }
 
     ---
 
