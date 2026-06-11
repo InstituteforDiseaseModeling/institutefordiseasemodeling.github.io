@@ -11,9 +11,9 @@ IDM provides three broad frameworks for modeling disease transmission, each of w
 
 <div class="grid cards" markdown>
 
--   :material-language-python:{ .lg .middle } __Starsim__ { #starsim }
+-   :material-language-python:{ .lg .middle } __Starsim__{ #starsim } 
 
-    ---
+    --- 
 
     The Starsim framework is used for examining the spread of infectious disease in situations when the details of how an individual's immune system, and heterogeneity across immune systems, changes the answer to a particular research question. Use Starsim models when within-host biology, co-infection, or fine-grained intervention effects matter.
 
@@ -21,7 +21,7 @@ IDM provides three broad frameworks for modeling disease transmission, each of w
 
     [:octicons-arrow-right-24: Starsim](https://starsim.idmod.org)
 
--   :material-language-python:{ .lg .middle } __LASER__ { #laser }
+-   :material-language-python:{ .lg .middle } __LASER__{ #laser } 
 
     ---
 
@@ -31,7 +31,7 @@ IDM provides three broad frameworks for modeling disease transmission, each of w
 
     [:octicons-arrow-right-24: LASER](https://laser.idmod.org)
 
--   :material-language-cpp:{ .lg .middle } __EMOD__ { #emod }
+-   :material-language-cpp:{ .lg .middle } __EMOD__{ #emod } 
 
     ---
 
@@ -51,7 +51,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
 <div class="grid cards" markdown>
 
--   :material-language-python:{ .lg .middle } __historymatching__ { #history-matching }
+-   :material-language-python:{ .lg .middle } __historymatching__{ #history-matching } 
 
     ---
 
@@ -59,7 +59,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
     [:octicons-arrow-right-24: historymatching](https://docs.idmod.org/historymatching)
 
--   :material-language-python:{ .lg .middle } __idmtools__ { #idmtools }
+-   :material-language-python:{ .lg .middle } __idmtools__{ #idmtools } 
 
     ---
 
@@ -67,7 +67,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
     [:octicons-arrow-right-24: idmtools](https://docs.idmod.org/idmtools)
 
--   :material-language-python:{ .lg .middle } __idmtools-calibra__ { #idmtools-calibra }
+-   :material-language-python:{ .lg .middle } __idmtools-calibra__{ #idmtools-calibra } 
 
     ---
 
@@ -75,7 +75,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
     [:octicons-arrow-right-24: idmtools-calibra](https://docs.idmod.org/idmtools-calibra)
 
--   :material-language-r:{ .lg .middle } __WES__ { #wes }
+-   :material-language-r:{ .lg .middle } __WES__{ #wes } 
 
     ---
 
@@ -83,7 +83,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
     [:octicons-arrow-right-24: WES](https://www.r-wes.com/)
 
--   :material-language-python:{ .lg .middle } __RAINIER__ { #rainier }
+-   :material-language-python:{ .lg .middle } __RAINIER__{ #rainier }
 
     ---
 
@@ -97,7 +97,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
 <div class="grid cards" markdown>
 
--   :material-view-dashboard:{ .lg .middle } __Gene Drive__ { #gene-drive }
+-   :material-view-dashboard:{ .lg .middle } __Gene Drive__{ #gene-drive } 
 
     ---
 
@@ -105,7 +105,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
     [:octicons-arrow-right-24: Gene Drive](http://gene-drive.bmgf.io/)
 
--   :material-view-dashboard:{ .lg .middle } __HIV Leaky Vaccine__ { #leaky-vaccine }
+-   :material-view-dashboard:{ .lg .middle } __HIV Leaky Vaccine__{ #leaky-vaccine } 
 
     ---
 
@@ -113,9 +113,9 @@ Outside of the three modeling frameworks above, we also provide the following so
 
     [:octicons-arrow-right-24: HIV Leaky Vaccine](http://leakyvaccine.bmgf.io)
 
--   :material-view-dashboard:{ .lg .middle } __Subnational Family Planning Estimation Tool__ { #sfpet }
+-   :material-view-dashboard:{ .lg .middle } __Subnational Family Planning Estimation Tool__{ #sfpet } 
 
-    ---
+    --- 
 
     The Subnational Family Planning Estimation Tool (SFPET) is an interactive web app created to aid policymakers in assessing progress towards family planning goals by visualizing both model-based and direct survey estimates of family planning indicators at the subnational level.
 
