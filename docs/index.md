@@ -115,7 +115,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
 -   :material-view-dashboard:{ .lg .middle } __Subnational Family Planning Estimation Tool__{ #sfpet } 
 
-    --- 
+    ---
 
     The Subnational Family Planning Estimation Tool (SFPET) is an interactive web app created to aid policymakers in assessing progress towards family planning goals by visualizing both model-based and direct survey estimates of family planning indicators at the subnational level.
 
