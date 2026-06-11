@@ -84,7 +84,7 @@ Outside of the three modeling frameworks above, we also provide the following so
     [:octicons-arrow-right-24: WES](https://www.r-wes.com/)
 
 -   :material-language-python:{ .lg .middle } __RAINIER__ { #rainier }
- 
+
     ---
 
     RAINIER is a statistical approach for fitting SEIR epidemic models to case and mortality data. We used the approach to create models of COVID-19 transmission in King County, WA.
