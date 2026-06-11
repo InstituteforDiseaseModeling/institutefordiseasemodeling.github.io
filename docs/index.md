@@ -11,7 +11,7 @@ IDM provides three broad frameworks for modeling disease transmission, each of w
 
 <div class="grid cards" markdown>
 
--   :material-language-python:{ .lg .middle } __Starsim__{ #starsim } 
+-   :material-language-python:{ .lg .middle } __Starsim__{ #starsim }
 
     ---
 
@@ -21,7 +21,7 @@ IDM provides three broad frameworks for modeling disease transmission, each of w
 
     [:octicons-arrow-right-24: Starsim](https://starsim.idmod.org)
 
--   :material-language-python:{ .lg .middle } __LASER__{ #laser } 
+-   :material-language-python:{ .lg .middle } __LASER__{ #laser }
 
     ---
 
@@ -31,7 +31,7 @@ IDM provides three broad frameworks for modeling disease transmission, each of w
 
     [:octicons-arrow-right-24: LASER](https://laser.idmod.org)
 
--   :material-language-cpp:{ .lg .middle } __EMOD__{ #emod } 
+-   :material-language-cpp:{ .lg .middle } __EMOD__{ #emod }
 
     ---
 
@@ -51,7 +51,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
 <div class="grid cards" markdown>
 
--   :material-language-python:{ .lg .middle } __historymatching__{ #history-matching } 
+-   :material-language-python:{ .lg .middle } __historymatching__{ #history-matching }
 
     ---
 
@@ -59,7 +59,23 @@ Outside of the three modeling frameworks above, we also provide the following so
 
     [:octicons-arrow-right-24: historymatching](https://docs.idmod.org/historymatching)
 
--   :material-language-python:{ .lg .middle } __idmtools__{ #idmtools } 
+-   :material-language-r:{ .lg .middle } __WES__{ #wes }
+
+    ---
+
+    The WES R package provides reproducible functions for collating and analyzing data from wastewater and environmental sampling studies. Wastewater and environmental sampling (WES) of infectious diseases involves collecting samples from various sources (such as sewage, water, air, soil, or surfaces) to monitor the presence of pathogens in the environment. The package includes tools that assist with establishing standardized WES data formats to simplify data ingestion.
+
+    [:octicons-arrow-right-24: WES](https://www.r-wes.com/)
+
+-   :material-language-r:{ .lg .middle } __RasterToolkit__{ #rastertoolkit }
+
+    ---
+
+    RasterToolkit is a Python package for processing rasters with minimal dependencies. For example, with RasterToolkit you can extract populations corresponding to an administrative shapefile from a raster file.
+
+    [:octicons-arrow-right-24: RasterToolkit](https://docs.idmod.org/RasterToolkit/)
+
+-   :material-language-python:{ .lg .middle } __idmtools__{ #idmtools }
 
     ---
 
@@ -67,21 +83,13 @@ Outside of the three modeling frameworks above, we also provide the following so
 
     [:octicons-arrow-right-24: idmtools](https://docs.idmod.org/idmtools)
 
--   :material-language-python:{ .lg .middle } __idmtools-calibra__{ #idmtools-calibra } 
+-   :material-language-python:{ .lg .middle } __idmtools-calibra__{ #idmtools-calibra }
 
     ---
 
     idmtools-calibra is an iterative parameter calibration framework for epidemic and scientific models. It repeatedly samples the parameter space, runs simulations via idmtools on COMPS, Slurm, and Docker container platforms, compares output to reference data, and updates the sampling strategy until convergence.
 
     [:octicons-arrow-right-24: idmtools-calibra](https://docs.idmod.org/idmtools-calibra)
-
--   :material-language-r:{ .lg .middle } __WES__{ #wes } 
-
-    ---
-
-    The WES R package provides reproducible functions for collating and analyzing data from wastewater and environmental sampling studies. Wastewater and environmental sampling (WES) of infectious diseases involves collecting samples from various sources (such as sewage, water, air, soil, or surfaces) to monitor the presence of pathogens in the environment. The package includes tools that assist with establishing standardized WES data formats to simplify data ingestion.
-
-    [:octicons-arrow-right-24: WES](https://www.r-wes.com/)
 
 -   :material-language-python:{ .lg .middle } __RAINIER__{ #rainier }
 
@@ -97,7 +105,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
 <div class="grid cards" markdown>
 
--   :material-view-dashboard:{ .lg .middle } __Gene Drive__{ #gene-drive } 
+-   :material-view-dashboard:{ .lg .middle } __Gene Drive__{ #gene-drive }
 
     ---
 
@@ -105,7 +113,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
     [:octicons-arrow-right-24: Gene Drive](http://gene-drive.bmgf.io/)
 
--   :material-view-dashboard:{ .lg .middle } __HIV Leaky Vaccine__{ #leaky-vaccine } 
+-   :material-view-dashboard:{ .lg .middle } __HIV Leaky Vaccine__{ #leaky-vaccine }
 
     ---
 
