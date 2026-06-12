@@ -67,7 +67,7 @@ Outside of the three modeling frameworks above, we also provide the following so
 
     [:octicons-arrow-right-24: WES](https://www.r-wes.com/)
 
--   :material-language-r:{ .lg .middle } __RasterToolkit__{ #rastertoolkit }
+-   :material-language-python:{ .lg .middle } __RasterToolkit__{ #rastertoolkit }
 
     ---
 
