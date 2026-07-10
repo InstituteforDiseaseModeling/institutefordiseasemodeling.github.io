@@ -2,7 +2,7 @@
 
 IDM's goal is to support global efforts to eradicate infectious diseases and achieve permanent improvements in health by developing, using, and sharing computational modeling tools and promoting quantitative decision-making.
 
-All IDM-built software tools and educational resources for disease modeling  are listed below.
+All IDM-built software tools and educational resources for disease modeling are listed below.
 
 ## Modeling fundamentals
 
