@@ -12,7 +12,7 @@ All IDM-built software tools and educational resources for disease modeling are 
 
     ---
 
-    The ModelingHub is a tool-agnostic introduction to the fundamentals of disease modeling. These educational materials are intended to help inform decisions on model selection and calibration methodology, utilizing worked examples and links to additional resources. 
+The ModelingHub is a tool-agnostic introduction to the fundamentals of disease modeling. These educational materials are intended to help inform decisions on model selection and calibration methodology, utilizing worked examples and links to additional resources.
 
     Best suited for: use as a roadmap for learning basic concepts of disease modeling.
 
