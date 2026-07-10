@@ -2,7 +2,23 @@
 
 IDM's goal is to support global efforts to eradicate infectious diseases and achieve permanent improvements in health by developing, using, and sharing computational modeling tools and promoting quantitative decision-making.
 
-All software tools that IDM builds and provides to the broader global health community are listed below.
+All IDM-built software tools and educational resources for disease modeling are listed below.
+
+## Modeling fundamentals
+
+<div class="grid cards" markdown>
+
+-   :material-school:{ .lg .middle } __ModelingHub__{ #modelinghub }
+
+    ---
+
+    The ModelingHub is a tool-agnostic introduction to the fundamentals of disease modeling. These educational materials are intended to help inform decisions on model selection and calibration methodology, utilizing worked examples and links to additional resources.
+
+    Best suited for: use as a roadmap for learning basic concepts of disease modeling.
+
+    [:octicons-arrow-right-24: ModelingHub](https://docs.idmod.org/modeling-hub/)
+
+</div>
 
 ## Modeling frameworks
 
